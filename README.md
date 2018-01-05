@@ -16,4 +16,4 @@ Word count per section, i.e. Experience, Leadership, and/or Projects
 Degree score (if you have a degree required for the position - mostly based on user input)
 By running this program, you will be able to produce a Latex file with these results filed by resume email and will also have a total score at the bottom.
 
-Created by: Sara Adkins, Ashley Wong, Jonathan Merrin, Nazli Uzgur
+Created by: Sara Adkins, Ashley Wong, Jonathan Merrin, Nazli Uzgur for YHacks 2015
