@@ -1,8 +1,10 @@
 ## Nazli Uzgur
+## Sara Adkins
+## Jonathan Merron
+## Ashley Wong
 
 from __future__ import with_statement # for Python 2.5 and 2.6
 import urllib
-# import PyPDF2
 import re, collections
 import os
 import tokenize

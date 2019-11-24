@@ -1,4 +1,4 @@
-import pdftotextmaybe
+import pdfToText
 
 def programmingScore(resume, progWords = None):
 

@@ -1,4 +1,3 @@
-#easy_install pdfquery
 import pdfquery
 from cStringIO import StringIO
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -25,5 +24,3 @@ def convert(fname, pages=None):
     text = output.getvalue()
     output.close
     return text 
-
-#print(convert("sample3.pdf"))
